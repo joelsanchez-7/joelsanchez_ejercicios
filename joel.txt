@@ -1,3 +1,9 @@
 joeldentrode web
+<<<<<<< HEAD
 y ahora dentro de mac 
 jiji
+=======
+y ahora dentro de mac
+muevo esto
+
+>>>>>>> refs/remotes/origin/master
