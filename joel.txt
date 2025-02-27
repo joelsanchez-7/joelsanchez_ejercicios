@@ -5,4 +5,6 @@ jiji
 y ahora dentro de mac
 muevo esto
 
-probando desde alien
+probando desde un alien
+
+probando desde el programa de visual stuido code
